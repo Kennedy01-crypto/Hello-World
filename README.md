@@ -1,4 +1,3 @@
 # Hello-World
 My First Repository on GitHub
-I love to code. I am currently learning more about git
-What do you love?
+This is a tutorial on Github from W3Schools
